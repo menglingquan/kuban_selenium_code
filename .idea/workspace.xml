@@ -2,8 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b03869a-6a25-4ee6-a166-39eb0519677f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/find_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/find_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/LocalElement.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/LocalElement.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/locationactivities.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/logindata.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/staffbookroom.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/staffdata.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/svisitordata.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/waiterlogindata.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/waitervisitordata.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/add_desk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/addlocation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/appium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/cut.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/desk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/huodong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/lianxiren.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/loation_admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/location_add_area.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/location_add_room.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/space_device.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/staff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/suanshu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/visitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/visitor_black.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/visitor_type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/visitorlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/储物柜.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/创建活动.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/签到台签到、签退、删除访客.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/通讯录.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logs/log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logs/log_2020-03-25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logs/log_2020-03-26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/user_log.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

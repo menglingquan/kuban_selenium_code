@@ -1,8 +1,0 @@
-2020-03-25 23:46:33,613 : user_log.py ----> <module> :10 DEBUG ----> ????????
-2020-03-25 23:46:42,212 : user_log.py ----> <module> :10 DEBUG ----> ????????
-2020-03-25 23:50:56,532 : user_log.py ----> <module> :10 DEBUG ----> log文件日志
-2020-03-25 23:51:50,915 : user_log.py ----> <module> :10 DEBUG ----> log文件日志
-2020-03-25 23:52:02,615 : user_log.py ----> <module> :10 DEBUG ----> log文件日志
-2020-03-25 23:52:21,840 : user_log.py ----> <module> :10 DEBUG ----> log文件日志
-2020-03-25 23:53:14,252 : user_log.py ----> <module> :10 DEBUG ----> log文件日志
-2020-03-25 23:58:30,848 : user_log.py ----> __init__ :10 DEBUG ----> log文件日志

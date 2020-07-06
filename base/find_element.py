@@ -23,6 +23,3 @@ class FindElement(object):
                 return self.driver.find_element_by_partial_link_text(value)
         except:
             return None
-if __name__ == '__main__':
-    fe = FindElement()
-    fe.get_element('user_add_success_message')
