@@ -1,0 +1,36 @@
+from base.find_element import FindElement
+class FrontOperationVisitorPage(object):
+    def __init__(self,driver):
+        self.fe = FindElement(driver)
+    def get_visitor_menu(self):
+        return self.fe.get_element('visitor_module')
+    def get_visitor_list(self):
+        return self.fe.get_element('visitor_list')
+    def get_visitor_info(self):
+        return self.fe.get_element('')
+    def get_approval_button(self):
+        return self.fe.get_element()
+    def get_approval_confirm_button(self):
+        return self.fe.get_element('')
+    def get_back_list_button(self):
+        return self.fe.get_element('')
+    def get_select_all_list(self):
+        return self.fe.get_element('')
+    def get_approval_all_button(self):
+        return self.fe.get_element('')
+    def get_first_sign_button(self):
+        return self.fe.get_element('')
+    def get_sign_confirm_button(self):
+        return self.fe.get_element('')
+    def get_sign_all_button(self):
+        return self.fe.get_element('')
+    def get_sign_out_button(self):
+        return self.fe.get_element('')
+    def get_sign_out_all_button(self):
+        return self.fe.get_element('')
+    def get_more_button(self):
+        return self.fe.get_element('')
+    def get_delect_button(self):
+        return self.fe.get_element('')
+    def get_delect_confirm_button(self):
+        return self.fe.get_element('')

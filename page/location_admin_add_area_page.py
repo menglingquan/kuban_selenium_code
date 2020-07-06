@@ -1,0 +1,32 @@
+from base.find_element import FindElement
+class LocationAdminAddAreaPage(object):
+    def __int__(self,driver):
+        self.fe = FindElement(driver)
+    def get_desk_menu(self):
+        return self.fe.get_element('')
+    def get_desk_management(self):
+        return self.fe.get_element('')
+    def get_first_floor(self):
+        return self.fe.get_element('')
+    def get_add_area_btn(self):
+        return self.fe.get_element('')
+    def get_area_name(self):
+        return self.fe.get_element('')
+    def get_area_type(self):
+        return self.fe.get_element('')
+    def get_area_floor(self):
+        return self.fe.get_element('')
+    def get_area_size(self):
+        return self.fe.get_element('')
+    def get_area_state(self):
+        return self.fe.get_element('')
+    def get_area_department_input_box(self):
+        return self.fe.get_element('')
+    def get_area_department(self):
+        return self.fe.get_element('')
+    def get_add_area_submit(self):
+        return self.fe.get_element('')
+    def get_form_tip(self):
+        return self.fe.get_element('')
+    def get_server_tip(self):
+        return self.fe.get_element('')

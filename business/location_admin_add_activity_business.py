@@ -1,0 +1,26 @@
+from handle.location_admin_add_activity_handle import LoactionAdminAddActivityHandle
+class LocationAdminAddActivityBusiness(object):
+    def __init__(self,driver):
+        self.laah = LoactionAdminAddActivityHandle(driver)
+    def add_activity(self, activity_title, activity_space, activity_ticket, activity_note, pic_path):
+        self.laah.click_activity_menu()
+        self.laah.click_activity_management()
+        self.laah.click_activity_add_btn()
+        self.laah.send_activity_title(activity_title)
+        self.laah.click_activity_type_input()
+        self.laah.click_activity_type()
+        self.laah.click_activity_time_input()
+        self.laah.click_activity_start_time()
+        self.laah.click_activity_end_time()
+        self.laah.click_activity_time_confirm()
+        self.laah.click_activity_singup_by_end_input()
+        self.laah.click_activity_signup_by_end_next_month()
+        self.laah.click_activity_singup_by_end_time()
+        self.laah.send_activity_space(activity_space)
+        self.laah.send_activity_tickets(activity_ticket)
+        self.laah.click_acrivity_notop()
+        self.laah.click_activity_top()
+        self.laah.send_activity_uploadpic(pic_path)
+        self.laah.send_activity_note(activity_note)
+        self.laah.click_activity_add_release()
+        self.laah.click_activity_add_draff()
