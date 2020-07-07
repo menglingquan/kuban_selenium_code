@@ -5,7 +5,7 @@ class RunCase(unittest.TestCase):
     def text_case01(self):
         case_path = os.path.join(os.getcwd())
         print(case_path)
-        suite = unittest.defaultTestLoader.discover(case_path,'test_staff_*.py')
+        suite = unittest.defaultTestLoader.discover(case_path,'test*.py')
         print(suite)
         #unittest.TextTestRunner().run(suite)
         f = open('D://Kuban//webreport//rrrrrt.html', 'wb')
