@@ -58,4 +58,4 @@ pycharm编译器傻瓜式安装（http://www.jetbrains.com/pycharm/download/#sec
 
 5.错误截图在img文件中
 
-    5.1.正确不截图
+    5.1.正确不截图。
