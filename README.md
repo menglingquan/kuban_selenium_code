@@ -1,9 +1,9 @@
 #依赖环境：
-win10
+winAll
 
-python3
+python3环境傻瓜式安装
 
-pycharm
+pycharm编译器傻瓜式安装
 
 -----
 #目录：
@@ -32,4 +32,12 @@ pycharm
 
 4.business调用handle执行测试步骤
 
-5.case调用business层，判断测试结果、截图、生成测试报告
+5.case调用business层，调用excel数据驱动，判断测试结果、截图、生成测试报告
+
+#运行
+
+1.运行run.py文件
+
+2.测试报告在report文件中
+
+3.错误截图在img文件中
